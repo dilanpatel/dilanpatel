@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dilanpatel
-- 👀 I’m interested in ... code, blockchain and legal.
-- 🌱 I’m currently learning ... open law markup
-- 💞️ I’m looking to collaborate on ... dapps.
+- 👀 I’m interested in ... programming.
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... python projects.
 - 📫 How to reach me ...
 @iamdilanpatel on instagram & twitter 
 
